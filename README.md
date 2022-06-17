@@ -1,3 +1,3 @@
 # Terraform
 
-<img src="tast1.jpg"/>
+<img src="Task 1.jpg"/>
