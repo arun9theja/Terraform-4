@@ -9,3 +9,6 @@
 <h2> Step 7 : Write, Init, Plan, Apply, Destroy </h2>
 
 <img src="Task%201.JPG"/>
+
+
+Reference https://www.youtube.com/watch?v=YcJ9IeukJL8&ab_channel=KodeKloud
