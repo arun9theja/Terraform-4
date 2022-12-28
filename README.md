@@ -8,6 +8,10 @@
 <h2> Step 6 : Set AWS Profile on CLI </h2>
 <h2> Step 7 : Write, Init, Plan, Apply, Destroy </h2>
 
+<h3> terraform init</h3>
+<h3> terraform validate</h3>
+<h3> terraform apply</h3>
+<h3> terraform destroy</h3>
 <img src="Task%201.JPG"/>
 
 
